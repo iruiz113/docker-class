@@ -1,4 +1,4 @@
-Pasos realizados:
+### Pasos realizados:
 
 0. Cree el repositorio en dockerhub:
 
@@ -31,6 +31,9 @@ Pasos realizados:
 
 10. Subo la imagen:
 `docker push idruiz/ejercicio02:1.1`
+
+### Comando para descargar la imagen creada:
+`docker pull idruiz/ejercicio02:1.1`
 
 ### URL del repositorio de docker:
 [https://hub.docker.com/r/idruiz/ejercicio02](https://hub.docker.com/r/idruiz/ejercicio02)
