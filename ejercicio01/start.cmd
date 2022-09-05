@@ -1,4 +1,5 @@
-set location="C:/Users/idruiz/OneDrive - BALANZ/projects/docker-kubernetes-class/docker-class/ejercicio01"
+@REM Setear la ruta absoluta donde se realice el pull del proyecto.
+set location=""
 
 docker run ^
 --name ngivanx ^
